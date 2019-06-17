@@ -9,6 +9,5 @@ Pod::Spec.new do |s|
     s.social_media_url   = "http://weibo.com/u/5348162268"
     s.source       = { :git => 'https://github.com/Yinjianhua472392556/SCYJHCardCaseLayout.git', :tag => s.version.to_s}
     s.source_files  = "SCYJHCardCaseLayout/*.{h,m}"
-    s.resources          = "YJSettingTableView/YJSettingTableView.bundle"
     s.requires_arc = true
 end

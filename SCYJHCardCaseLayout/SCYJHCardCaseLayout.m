@@ -1,5 +1,5 @@
 //
-//  SCWHBCardCaseLayout.m
+//  SCYJHCardCaseLayout.m
 //  SuperCard
 //
 //  Created by  on 2017/11/24.
@@ -8,7 +8,7 @@
 
 #import "SCYJHCardCaseLayout.h"
 
-@interface SCWHBCardCaseLayout ()
+@interface SCYJHCardCaseLayout ()
 
 /** cell的尺寸 */
 @property (nonatomic) CGSize itemSize;
