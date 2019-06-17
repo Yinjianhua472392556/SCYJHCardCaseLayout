@@ -6,7 +6,7 @@
 //  Copyright © 2017年 G-mall. All rights reserved.
 //
 
-#import "SCWHBCardCaseLayout.h"
+#import "SCYJHCardCaseLayout.h"
 
 @interface SCWHBCardCaseLayout ()
 
@@ -23,7 +23,7 @@
 
 @end
 
-@implementation SCWHBCardCaseLayout
+@implementation SCYJHCardCaseLayout
 
 - (instancetype)init
 {

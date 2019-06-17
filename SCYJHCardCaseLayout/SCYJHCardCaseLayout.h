@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SCWHBCardCaseLayout : UICollectionViewLayout
+@interface SCYJHCardCaseLayout : UICollectionViewLayout
 /** 是否需要改变透明度 */
 @property (nonatomic) BOOL isNeedChangeAlpha;
 
